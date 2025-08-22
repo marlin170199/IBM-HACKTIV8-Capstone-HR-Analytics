@@ -1,6 +1,6 @@
 # Diagnosis Budaya Perusahaan: Analisis Ulasan Karyawan Menggunakan AI untuk Menghasilkan Rekomendasi Strategis
 
-**Oleh: Fauzi Noorsyabani - Universitas Siliwangi**
+**Oleh: Fauzi Noorsyabani - Sistem Informasi - Universitas Siliwangi**
 *Proyek Capstone - IBM SkillsBuild Student Development Initiative*
 
 ---
